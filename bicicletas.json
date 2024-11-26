@@ -1,0 +1,123 @@
+[
+    {
+      "id": 1,
+      "marca": "Giant",
+      "modelo": "Talon29",
+      "rodado": 29,
+      "anioFabricacion": 2021,
+      "color": "Negro",
+      "pesoKg": 14,
+      "tipo": "Montañera",
+      "precio": 215000,
+      "vendido": true
+    },
+    {
+      "id": 2,
+      "marca": "Trek",
+      "modelo": "DomaneSL6",
+      "rodado": 28,
+      "anioFabricacion": 2023,
+      "color": "Blanco",
+      "pesoKg": 8,
+      "tipo": "Ruta",
+      "precio": 890000,
+      "vendido": false
+    },
+    {
+      "id": 3,
+      "marca": "Cannondale",
+      "modelo": "QuickNeo",
+      "rodado": 28,
+      "anioFabricacion": 2024,
+      "color": "Verde",
+      "pesoKg": 12,
+      "tipo": "Paseo",
+      "precio": 320000,
+      "vendido": true
+    },
+    {
+      "id": 4,
+      "marca": "Scott",
+      "modelo": "SparkRC900",
+      "rodado": 29,
+      "anioFabricacion": 2020,
+      "color": "Amarillo",
+      "pesoKg": 10,
+      "tipo": "Montañera",
+      "precio": 740000,
+      "vendido": false
+    },
+    {
+      "id": 5,
+      "marca": "Bianchi",
+      "modelo": "AriaE-Road",
+      "rodado": 26,
+      "anioFabricacion": 2022,
+      "color": "Celeste",
+      "pesoKg": 9,
+      "tipo": "Ruta",
+      "precio": 670000,
+      "vendido": true
+    },
+    {
+      "id": 6,
+      "marca": "Specialized",
+      "modelo": "SirrusX",
+      "rodado": 28,
+      "anioFabricacion": 2023,
+      "color": "Rojo",
+      "pesoKg": 13,
+      "tipo": "Paseo",
+      "precio": 480000,
+      "vendido": false
+    },
+    {
+      "id": 7,
+      "marca": "Merida",
+      "modelo": "BigNine",
+      "rodado": 29,
+      "anioFabricacion": 2024,
+      "color": "Azul",
+      "pesoKg": 11,
+      "tipo": "Montañera",
+      "precio": 550000,
+      "vendido": true
+    },
+    {
+      "id": 8,
+      "marca": "Orbea",
+      "modelo": "TerraH40",
+      "rodado": 28,
+      "anioFabricacion": 2021,
+      "color": "Gris",
+      "pesoKg": 9,
+      "tipo": "Gravel",
+      "precio": 730000,
+      "vendido": true
+    },
+    {
+      "id": 9,
+      "marca": "Cervélo",
+      "modelo": "P-Series",
+      "rodado": 28,
+      "anioFabricacion": 2022,
+      "color": "Negro",
+      "pesoKg": 8,
+      "tipo": "Triatlón",
+      "precio": 950000,
+      "vendido": false
+    },
+    {
+      "id": 10,
+      "marca": "Santa Cruz",
+      "modelo": "BronsonC",
+      "rodado": 29,
+      "anioFabricacion": 2023,
+      "color": "Naranja",
+      "pesoKg": 13,
+      "tipo": "Montañera",
+      "precio": 880000,
+      "vendido": true
+    }
+  ]
+  
